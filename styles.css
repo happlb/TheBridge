@@ -1,0 +1,17 @@
+/* fedcd2 */
+body {
+  background-color: #8fd8d2;
+}
+h1 {
+  color: #d4744a;
+  font-size: 5em;
+  margin-bottom: 100px;
+}
+input {
+  background-color: #dcb239;
+  color: white;
+  font-size: 5em;
+  display: block;
+  width: 500px;
+  margin: 50px auto;
+}
